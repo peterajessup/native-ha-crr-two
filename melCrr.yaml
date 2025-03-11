@@ -43,7 +43,7 @@ spec:
           role: Recovery
         remotes:
           - addresses:
-              - sydqm-ibm-mq.mq.svc
+              - sydqm-ibm-mq-nhacrr-mq.apps.67bbd77d2e78454305578351.ap1.techzone.ibm.com # place holder, use the route created by the operator for the remote queue manager
             trust:
               - secret:
                   secretName: tls-syd
