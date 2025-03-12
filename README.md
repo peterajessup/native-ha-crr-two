@@ -1,7 +1,7 @@
 # CRR MQ Native HA Demonstration
 
 This repository is to be used for creating a NativeHA MQ Queue Manager on OCP for the purposes of Demonstrating Cross region recovery.
-All artefacts are present for the demonstration of the (initial) DR or Recovery queue manager.
+All artefacts are present for the demonstration of the DR or Recovery queue manager.
 The scripts directory contains the script for deploying the queue manager and required supporting objects.
 <BR>
 The client directory containes a keystore and CCDT along with an mqclient.ini file to support client connectivity.
