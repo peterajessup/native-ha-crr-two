@@ -6,13 +6,13 @@
       {
         "description": "TLS CHANNEL for mq1"
       },
-      "name": "TLS1",
+      "name": "TLS",
       "clientConnection":
       {
         "connection":
         [
           {
-            "host": "sydqm-ibm-mq-qm-mq.apps.67bbd77d2e78454305578351.ap1.techzone.ibm.com",
+            "host": "sydqm-ibm-mq-qm-mq.apps.67bbd77d2e78454305578351.ap1.techzone.ibm.com", #placeholder for the host dependant on your environment
             "port": 443 
           }
         ],
@@ -37,7 +37,7 @@
         "connection":
         [
           {
-            "host": "melqm-ibm-mq-qm-mqdr.apps.67bbd77d2e78454305578351.ap1.techzone.ibm.com",
+            "host": "melqm-ibm-mq-qm-mqdr.apps.67bbd77d2e78454305578351.ap1.techzone.ibm.com", #placeholder for the host dependant on your environment
             "port": 443 
           }
         ],
